@@ -1,0 +1,82 @@
+			#container_search {
+				width:500px;
+				height:60px;
+				margin:0 auto;
+			}
+			div.search {
+				padding:10px 0;
+			}
+			form {
+				position:relative;
+				width:290px;
+				margin:0 auto;
+			}
+			input,button {
+				border:none;
+				outline:none;
+			}
+			input {
+				width:100%;
+				height:37px;
+				padding-left:0px;
+			}
+			button {
+				height:42px;
+				width:42px;
+				cursor:pointer;
+				position:absolute;
+			}
+			/*搜索框6*/
+			     
+			.bar input {
+				border:2px solid #7B68EE;
+				border-radius:5px;
+				background:transparent;
+				top:0;
+				right:0;
+			}
+			.bar button {
+				background:#7B68EE;
+				border-radius:0 5px 5px 0;
+				width:60px;
+				top:0;
+				right:0;
+			}
+			.bar button:before {
+				content:"搜索";
+				font-size:13px;
+				color:#F9F0DA;
+			}
+
+			#container{
+				width:1500px;
+				height:800px;
+				top:20%;
+				float: left;
+				/*margin:0 auto;*/
+			}
+
+			#info {	
+				text-align: center;
+				top: 20%;
+				width: 100%;
+				padding: 5px;
+				font-family:"Microsoft YaHei";
+				font-size:30px;
+				color: 	#7B68EE;
+			}
+
+			#nodelist{
+				color: silver;
+				position: relative;
+				top: 20%;
+				right: 0;
+			}
+
+			#listcontainer{
+
+				float: left;
+				top: 20%;
+				width: 200px;
+				height: 800px;
+			}

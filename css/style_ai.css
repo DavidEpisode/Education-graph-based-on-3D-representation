@@ -1,0 +1,89 @@
+
+			#container{
+				margin-top: 20px;
+				margin-left: 0;
+				width:1750px;
+				height: 700px;
+			}			
+			.button {
+			    background-color: #008CBA;
+			    border-radius: 12px;
+			    color: #000;
+			    padding: 15px 32px;
+			    text-align: center;
+			    text-decoration: none;
+			    display: inline-block;
+			    font-size: 14px;
+			    margin: 4px 2px;
+			    transition-duration: 0.4;
+			    cursor: pointer;	
+			    width: 100px;
+			    margin-top: -20px;
+			}
+			#Button1{
+				background-color: #fff;
+				color: black; 
+				border: 2px solid #008CBA; 
+				margin-left: 35%;
+			}
+			#Button1:hover{
+				background-color: #008CBA;
+    			color: #000;
+			}
+			#Button2{
+				background-color: white;
+				color: black;
+				border: 2px solid #008CBA; 
+			}
+			#Button2:hover{
+				background-color: #008CBA;
+    			color: #000;
+			}
+			#Button3{
+				background-color: white;
+				color: black;
+				border: 2px solid #008CBA; 
+			}
+			#Button3:hover{
+				background-color: #008CBA;
+    			color: #000;
+			}
+			#Button4{
+				background-color: white;
+				color: black;
+				border: 2px solid #008CBA; 
+			}
+			#Button4:hover{
+				background-color: #008CBA;
+    			color: #000;
+			}
+			#Button5{
+				background-color: white;
+				color: black;
+				border: 2px solid #008CBA; 
+			}
+			#Button5:hover{
+				background-color: #008CBA;
+    			color: #000;
+			}
+
+
+			#info {
+							top: 0px;
+							width: 100%;
+							padding: 5px;
+							font-family:Monospace;
+							font-size:30px;
+							font-weight: bold;
+							text-align:center;
+			}
+
+			#return{
+				top: 0px;
+				width: 100%;
+				padding: 5px;
+				font-color: grey;
+				font-family:Monospace;
+				font-size:15px;
+				text-align:right;
+			}
